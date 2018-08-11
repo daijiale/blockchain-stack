@@ -1,0 +1,25 @@
+/* 
+  Name:			Rotate In Up Right
+  Type:			Entrance
+  Description:	Rotate in Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"右上旋转进入", "en-US":"Rotate In Up Right"}
+ */
+ 
+@keyframes rotateInUpRight {
+  0% {
+    transform-origin: right bottom;
+    transform: rotate3d(0, 0, 1, -90deg);
+    opacity: 0;
+  }
+
+  100% {
+    transform-origin: right bottom;
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.rotateInUpRight {
+  animation-name: rotateInUpRight;
+}
