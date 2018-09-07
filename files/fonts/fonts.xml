@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <fonts>
-    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-0-0-201898061440697.swf" ttfurl="./files/fonts/font-0-0-201898061440697.ttf"/>
-    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-0-1-201898061440698.swf" ttfurl="./files/fonts/font-0-1-201898061440698.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-1-0-201898061440699.swf" ttfurl="./files/fonts/font-1-0-201898061440699.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-1-1-20189806144166.swf" ttfurl="./files/fonts/font-1-1-20189806144166.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-1-2-201898061441356.swf" ttfurl="./files/fonts/font-1-2-201898061441356.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-1-3-201898061441655.swf" ttfurl="./files/fonts/font-1-3-201898061441655.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-0-0-201898061850655.swf" ttfurl="./files/fonts/font-0-0-201898061850655.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-0-1-201898061850656.swf" ttfurl="./files/fonts/font-0-1-201898061850656.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-1-0-201898061850658.swf" ttfurl="./files/fonts/font-1-0-201898061850658.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-1-1-201898061850972.swf" ttfurl="./files/fonts/font-1-1-201898061850972.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-1-2-201898061851279.swf" ttfurl="./files/fonts/font-1-2-201898061851279.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-1-3-201898061851569.swf" ttfurl="./files/fonts/font-1-3-201898061851569.ttf"/>
   </fonts>
 </data>
